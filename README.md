@@ -13,12 +13,6 @@ A Python-based application to recognize traffic signs from images using ORB (Ori
 
 ---
 
-## Screenshots
-
-*(Add screenshots of your app here)*
-
----
-
 ## Requirements
 
 - Python 3.x
